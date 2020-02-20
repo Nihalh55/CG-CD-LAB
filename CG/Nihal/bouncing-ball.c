@@ -1,26 +1,9 @@
 
-Skip to content
-Using Gmail with screen readers
-36 of 4,278
-cg lab4
-Inbox
-	x
-Meghna Savit <meghna.savit99@gmail.com>
-	
-AttachmentsJan 22, 2020, 3:31 PM (6 days ago)
-	
-to me
-
-3 Attachments
-	
-	
-	
-
 #include <stdio.h>
 #include <math.h>
 #include <GL/glut.h>
 
-int xc = 0, yc = 0;
+int xc = 10, yc = 10;
 
 void plot_point(int x, int y)
 {
@@ -112,6 +95,3 @@ void main(int argc, char **argv)
   glutDisplayFunc(circles);
   glutMainLoop();
 }
-
-4c.c
-Displaying 4a.c.
